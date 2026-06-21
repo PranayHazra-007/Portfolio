@@ -105,7 +105,7 @@ const Projects = () => {
                   </a>
 
                   <a
-                    href="https://chatwave-video-calls.onrender.com"
+                    href="https://chatwave-video-calls-7.onrender.com"
                     target="_blank"
                     rel="noopener noreferrer"
                     className="btn btn-outline-light"
